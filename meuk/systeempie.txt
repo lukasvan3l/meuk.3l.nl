@@ -1,0 +1,18 @@
+Behuizing	ATX Midi Aopen HQ48P -P4 Blue 300w 
+Moederbord	Asus P4PE-X i845PE P4 533/800Mhz, S 
+Processor	Pentium IV 2660 512kbc 533FSB Box 
+Geheugen	Kingston 512mb PC-333 DDR CL2.5 
+Harddisk	Maxtor 200 GB 8mb 133 7200rpm Liqui 
+Diskdrive	Mitsummi 1,44 
+Videokaart	Asus V9520 TD FX5200 128Mb 
+DVD-RW NEC	DVD + - R/RW 1300 + Nero Beige 
+Soundkaart	Creative SB AUDIGY II player oem 
+Speakers	Creative Inspire 6,1 6700 
+Keyboard	Logitech Internet Wit oem 
+Muis		Logitech Pilot MX-500 
+Netwerk		onboard 10/100 
+Monitor		Samsung 17" 172V TFT Ivory 
+reader		6 in 1 cardreader sweex 3,5"
+firewire	zit op de audigy 
+OS		Win XP prof NL 
+
